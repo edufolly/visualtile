@@ -1,0 +1,14 @@
+{
+  "nomeOrigem": "/Users/edufolly/Desktop/1515geotiff.tif",
+  "limSuperior": -22.85,
+  "limEsquerdo": -43.178333333333335,
+  "limInferior": -22.9,
+  "limDireito": -43.108333333333334,
+  "minZoom": 11,
+  "maxZoom": 17,
+  "nomeDestino": "/Users/edufolly/Desktop/1515",
+  "minTile": 50,
+  "maxTilePercent": 1.1,
+  "tile": 256,
+  "antialiasing": true
+}
